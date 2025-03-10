@@ -4,6 +4,5 @@ public class Main {
         int myNum;
         myNum = 89;
         System.out.println(myNum);
-//        System.out.println(Main.main());
     }
 }
